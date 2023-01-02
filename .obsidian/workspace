@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "a717e113dea274a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6085cbf422f25d25",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Действия игрока.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4550cf1f9dd7a726",
+    "type": "split",
+    "children": [
+      {
+        "id": "174984728c3c3151",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2cd8ca54856435d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2e7fdfdb316bd8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "804a853c03ecac5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "38eb71e7f474ee6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86cd2297225c5f94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Действия игрока.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6085cbf422f25d25",
+  "lastOpenFiles": [
+    "Действия игрока.md",
+    "Ежемесячные расходы.md",
+    "Игрок.md"
+  ]
+}

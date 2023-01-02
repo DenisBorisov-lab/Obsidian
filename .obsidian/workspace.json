@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "a717e113dea274a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "48fed956f9a18e04",
+        "type": "tabs",
+        "dimension": 36.54822335025381,
+        "children": [
+          {
+            "id": "a0ba5664ac1abbfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring Framework/Spring IoC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0948bf8316b1e565",
+        "type": "tabs",
+        "dimension": 63.451776649746186,
+        "children": [
+          {
+            "id": "e09ce43f03b1efe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring Framework/Spring Framework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4550cf1f9dd7a726",
+    "type": "split",
+    "children": [
+      {
+        "id": "174984728c3c3151",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2cd8ca54856435d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e2e7fdfdb316bd8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "804a853c03ecac5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "38eb71e7f474ee6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86cd2297225c5f94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spring Framework/Spring Framework.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false
+    }
+  },
+  "active": "e09ce43f03b1efe2",
+  "lastOpenFiles": [
+    "Spring Framework/Spring IoC.md",
+    "Spring Framework/Spring Framework.md",
+    "resources/equality IoC.png",
+    "resources/Spring IoC.png",
+    "Spring Framework/Без названия.canvas",
+    "Pasted image 20230101230707.png",
+    "Pasted image 20230101230717.png",
+    "Без названия.md",
+    "fgfgfg.md",
+    "SpringBoot/Без названия.canvas"
+  ]
+}
