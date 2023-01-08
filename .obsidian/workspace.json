@@ -4,39 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "48fed956f9a18e04",
+        "id": "d91e6e67c55c3001",
         "type": "tabs",
-        "dimension": 36.54822335025381,
         "children": [
           {
-            "id": "a0ba5664ac1abbfb",
+            "id": "b3c9792bc922cc4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Framework/Spring IoC.md",
+                "file": "Spring Framework/Конфигурации/Java-based.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "0948bf8316b1e565",
-        "type": "tabs",
-        "dimension": 63.451776649746186,
-        "children": [
+          },
           {
-            "id": "e09ce43f03b1efe2",
+            "id": "bfe9b818b337dc57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring Framework/Spring Framework.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring Framework/Spring Framework.md",
+                "file": "Spring Framework/Конфигурации/Java-based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +112,17 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "e09ce43f03b1efe2",
+  "active": "b3c9792bc922cc4a",
   "lastOpenFiles": [
-    "Spring Framework/Spring IoC.md",
+    "Spring Framework/Spring AOP.md",
+    "Spring Framework/Конфигурации/Annotation-based.md",
+    "Spring Framework/Properties.md",
     "Spring Framework/Spring Framework.md",
+    "Spring Framework/Конфигурации/Java-based.md",
+    "Spring Framework/Конфигурации/XMl-based.md",
+    "Spring Framework/Конфигурации/Виды конфигураций.md",
+    "Spring Framework/Spring IoC.md",
     "resources/equality IoC.png",
-    "resources/Spring IoC.png",
-    "Spring Framework/Без названия.canvas",
-    "Pasted image 20230101230707.png",
-    "Pasted image 20230101230717.png",
-    "Без названия.md",
-    "fgfgfg.md",
-    "SpringBoot/Без названия.canvas"
+    "resources/Spring IoC.png"
   ]
 }

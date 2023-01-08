@@ -1,5 +1,5 @@
 Spring Projects:
-1)  [[Spring IoC]] + Spring AOP = context 
+1)  [[Spring IoC]] + [[Spring AOP]] = context 
 2) Spring JDBC
 3) Spring ORM
 4) Spring Data, Spring Data JPA (позволяет создать JDBC репозитории, написав только интерфейс репозитория)
@@ -7,3 +7,6 @@ Spring Projects:
 6) Spring Security (авторизация и аунтефикация приложения)
 7) Spring Cloud (разработка приложений в облачной среде)
 8) Spring Boot
+
+* [[Виды конфигураций]]
+* [[Properties]]
