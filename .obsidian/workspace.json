@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Framework/Конфигурации/Java-based.md",
+                "file": "Spring Framework/Spring AOP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring Framework/Конфигурации/Java-based.md",
+                "file": "Spring Framework/Spring AOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,11 +114,11 @@
   },
   "active": "b3c9792bc922cc4a",
   "lastOpenFiles": [
+    "Spring Framework/Конфигурации/Java-based.md",
     "Spring Framework/Spring AOP.md",
     "Spring Framework/Конфигурации/Annotation-based.md",
     "Spring Framework/Properties.md",
     "Spring Framework/Spring Framework.md",
-    "Spring Framework/Конфигурации/Java-based.md",
     "Spring Framework/Конфигурации/XMl-based.md",
     "Spring Framework/Конфигурации/Виды конфигураций.md",
     "Spring Framework/Spring IoC.md",

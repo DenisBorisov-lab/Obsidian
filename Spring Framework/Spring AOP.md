@@ -78,3 +78,8 @@ Pointcut - язык описания мест Join point
 ![[Pasted image 20230108202934.png]]
 ![[Pasted image 20230108203110.png]]
 ![[Pasted image 20230108203345.png]]
+
+---
+### Сравнение Spring AOP и AspectJ
+
+![[Pasted image 20230108205434.png]]
