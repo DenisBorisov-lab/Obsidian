@@ -105,17 +105,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Открыть палитру команд": false,
-      "markdown-importer:Импорт Markdown-файлов": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "canvas:Create new canvas": false
     }
   },
   "active": "b3c9792bc922cc4a",
   "lastOpenFiles": [
-    "Spring Framework/Конфигурации/Java-based.md",
     "Spring Framework/Spring AOP.md",
+    "Spring Framework/Конфигурации/Java-based.md",
     "Spring Framework/Конфигурации/Annotation-based.md",
     "Spring Framework/Properties.md",
     "Spring Framework/Spring Framework.md",

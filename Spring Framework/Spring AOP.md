@@ -80,6 +80,16 @@ Pointcut - язык описания мест Join point
 ![[Pasted image 20230108203345.png]]
 
 ---
+### Зависимости для использования аннотаций
+
+![[Снимок экрана 2023-01-11 в 21.47.44.png]]
+
+---
 ### Сравнение Spring AOP и AspectJ
 
 ![[Pasted image 20230108205434.png]]
+
+---
+### Github
+
+https://github.com/DenisBorisov-lab/spring-aop
